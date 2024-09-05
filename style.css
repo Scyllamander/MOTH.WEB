@@ -1,0 +1,63 @@
+body {
+    background: #2C183D url("") no-repeat scroll 0 0;
+    font-family: Georgia, serif;
+    font-size: 21px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #A0FF00;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: none;
+    text-transform: none;
+    border: ;
+    text-align: center;
+    padding: 3%;
+}
+div {
+    background-color: ;
+    text-align: center;
+    box-sizing: content-box;
+    -webkit-box-shadow: ; 
+    box-shadow: ;
+    padding-bottom: 1%;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+
+}
+#top {
+    font-size: 48px;
+    text-decoration: underline;
+}
+
+#bio {
+    font-size: 18px;
+    text-align: left;
+}
+
+    .linkButton {
+        color: rgb(194, 255, 0); 
+        font-size: 20px; 
+        line-height: 20px; 
+        padding: 6px; 
+        border-radius: 7px; 
+        font-family: Georgia, serif; 
+        font-weight: normal; 
+        text-decoration: none; 
+        font-style: normal; 
+        font-variant: normal; 
+        text-transform: none; 
+        background-image: linear-gradient(rgb(97, 10, 164) 0%, rgb(161, 13, 203) 12%, rgb(47, 12, 117) 100%); 
+        box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
+        border: 2px solid rgb(28, 110, 164); 
+        display: inline-block;}
+        .linkButton:hover {
+        background: #610AA4;
+        bottom: 12px; 
+        transform: translateY(-3px);
+        transition: transform 0.5s ease;}
+        .linkButton:active {
+        background: #2F0C75; }
