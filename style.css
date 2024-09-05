@@ -1,5 +1,4 @@
 body {
-    background: #2C183D url("") no-repeat scroll 0 0;
     font-family: Georgia, serif;
     font-size: 21px;
     letter-spacing: 2px;
@@ -13,17 +12,15 @@ body {
     border: ;
     text-align: center;
     padding: 3%;
-    background: #2C183D url("https://upload.wikimedia.org/wikipedia/commons/7/72/Hexagon_Tiling.svg") repeat fixed 0 0;
+    background: #2C183D url("https://i.imgur.com/DQ77rM1.png") no-repeat fixed 50% 50%;
 }
 div {
-    background-color: #2C183D ;
     text-align: center;
     box-sizing: content-box;
     padding-bottom: 1%;
     max-width: fit-content;
     margin-left: auto;
     margin-right: auto;    
-
 }
 .description {
   
@@ -35,16 +32,16 @@ div {
     position: relative; 
 }
 #intro {
-    margin-top: 5%;
+    margin-top: 0px;
     position: relative;
-    border: 2px solid #610AA4;
 }
 
 #bio {
     font-size: 18px;
-    text-align: left;
+    text-align: center;
     position: relative;
- 
+    background: rgba(69, 0, 158, 0.527) url("https://cdn.pixabay.com/photo/2012/04/18/16/09/beehive-37436_960_720.png") repeat scroll 50% 50%;
+
     margin-top: 0%;
 
     width: 750px;
@@ -65,9 +62,10 @@ div {
         text-transform: none; 
         background-image: linear-gradient(rgb(97, 10, 164) 0%, rgb(161, 13, 203) 12%, rgb(47, 12, 117) 100%); 
         border: 2px solid rgb(28, 110, 164); 
-        display: inline-block;
+        text-align: center;
         width: 98%;
         margin-left: 0px;
+      
        
     }
         .linkButton:hover {
@@ -99,8 +97,8 @@ div {
         #right-side {
             position: relative;
             float: right;
-            margin-top: -15%;
-            width: 150px;
+            margin-top: 0%;
+            width: 250px;
             border: 2px solid #A0FF00;
         }
 
