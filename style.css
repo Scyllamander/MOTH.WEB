@@ -162,3 +162,18 @@ div {
             border: 2px solid #A0FF00;
             margin-bottom: 10px;
         }
+
+        .list {
+
+        
+        }
+        #skills {
+            position: relative;
+            float: left;
+            margin-left: -10%;
+            margin-top: -10%;
+           
+        }
+   #skill-title {
+    text-decoration: underline;
+   }
