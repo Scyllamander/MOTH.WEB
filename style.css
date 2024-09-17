@@ -207,3 +207,35 @@ div {
     #home-button:active {
     background: #2F0C75;
    }
+
+
+   #cat {
+ 
+    position: fixed top left;
+    margin-right: 55%;
+   }
+
+   #cat-text {
+    position: fixed top right;
+    margin-top: -75%;
+    margin-right: 15%;
+    margin-left: 55%;
+    border: #A0FF00 solid;
+
+   }
+   .cat-link {
+    
+
+   }
+   .cat-link:link {
+    color: #A0FF00;
+   }
+   .cat-link:hover {
+    color: #A0FF00;
+   }
+   .cat-link:active {
+    color: #A0FF00;
+   }
+   .cat-link:visited {
+    color: #A0FF00;
+   }
